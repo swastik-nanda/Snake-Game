@@ -1,0 +1,22 @@
+#container{
+  text-align: center;
+  font-family: 'MV Boli';
+}
+#scoretext{
+  font-size: 75px;
+}
+#gameboard{
+  border: 5px solid;
+}
+#resetbut{
+  width: 120px;
+  height: 50px;
+  line-height: 35px;
+  font-family: 'MV Boli';
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 32px;
+  cursor: pointer;
+  color: yellow;
+  background-color: red;
+}
